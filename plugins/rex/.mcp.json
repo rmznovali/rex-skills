@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "rex": {
+      "type": "http",
+      "url": "https://app.rexmetrics.com/mcp"
+    }
+  }
+}

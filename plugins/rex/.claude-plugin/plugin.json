@@ -1,0 +1,26 @@
+{
+  "name": "rex",
+  "displayName": "rex",
+  "version": "1.0.0",
+  "description": "Research keywords and competitors, audit sites, track rankings and AI visibility, and use connected Search Console data from your AI assistant.",
+  "author": {
+    "name": "rex",
+    "url": "https://www.rexmetrics.com"
+  },
+  "homepage": "https://www.rexmetrics.com",
+  "privacyPolicyUrl": "https://www.rexmetrics.com/privacy",
+  "icon": "./assets/icon.png",
+  "repository": "https://github.com/rmznovali/rex-skills",
+  "license": "MIT",
+  "keywords": [
+    "seo",
+    "keyword-research",
+    "serp",
+    "site-audit",
+    "backlinks",
+    "search-console",
+    "rank-tracking",
+    "local-seo",
+    "ai-visibility"
+  ]
+}
