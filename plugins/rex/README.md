@@ -18,7 +18,7 @@ The plugin includes twelve skills that guide your agent through complete SEO wor
 
 ## Connect
 
-Install rex from this repository (see the main README). The first time your agent uses a rex tool, follow the OAuth prompt to sign in and approve the connection. There is no API key to configure.
+In Claude Code, run `/plugin install rex --marketplace rmznovali/rex-skills`. For other agents, see the main README. The first time your agent uses a rex tool, follow the OAuth prompt to sign in and approve the connection. There is no API key to configure.
 
 To check the connection without using credits, ask: "Use rex to check my connection and list my projects."
 
